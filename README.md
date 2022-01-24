@@ -11,7 +11,9 @@ I've added some styling and JS.
 
 1) Near the top of this page, expand the green "Code" dropdown, and choose "Download ZIP"
 
-2) On your Shopify store's "Themes" page, expand the "Add theme" dropdown.  Choose "Upload zip file" to upload this theme.
+2) On your Shopify store's "Themes" page, expand the "Add theme" dropdown.  Choose "Upload zip file" and upload the zip from step 1.
+
+3) After upload choose "Actions > Preview" to see it working.  if you like it choose "Actions > Publish" to use it in production.
 
 
 ### Options
