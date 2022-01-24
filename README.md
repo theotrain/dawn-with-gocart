@@ -6,6 +6,7 @@ This project integrates [Shopify's](https://www.shopify.com/) free Dawn theme an
 
 I've added some styling and JS.
 
+![theme preview](https://drive.google.com/file/d/1iN1FYRv-atuZdhyLtaptRaJHKZAxnQqz/view?usp=sharing)
 
 ## How to install
 
