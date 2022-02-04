@@ -21,3 +21,7 @@ I've added some styling and JS.
 ### Options
 
 Aint none, sucka!
+
+### Video
+
+There's a ['making of video'](https://www.youtube.com/watch?v=R8ERZBZ8mJU) for this project.  It's my first video, so get ready to be bored.
