@@ -1,8 +1,12 @@
+# This is OLD, Get the latest version!
+
+This repo uses Dawn 2.4.0, please use the [latest version integrated with Dawn 5.0.0](https://github.com/theotrain/dawn-v5-with-gocart)
+
 # Dawn + Gocart.js drawer cart
 
 Ever wished the DAWN theme came with a drawer cart?  This is it.
 
-This project integrates [Shopify's](https://www.shopify.com/) free Dawn theme and [Bornfight's goCart.js](https://github.com/bornfight/goCart.js)
+This project integrates [Shopify's](https://www.shopify.com/) free Dawn theme (version 2.4.0) and [Bornfight's goCart.js](https://github.com/bornfight/goCart.js)
 
 I've added some styling and JS.
 
